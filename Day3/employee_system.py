@@ -22,7 +22,7 @@ def add_employee():
                     print(f" Employee ID '{emp_id}' already exists.\n")
                     return
 
-    # Write record in CSV-style format
+    # Write record 
     with open(FILE_PATH, "a") as file:
         file.write(f"{emp_id},{name},{department},{salary}\n")
     
