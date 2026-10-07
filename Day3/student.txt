@@ -1,2 +1,2 @@
-101,amit,cs,20000
-102,Simaran,it,45000
+101,Sarah ,Data Science,3.9
+102,Amit,AI,5.7
