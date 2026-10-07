@@ -1,6 +1,6 @@
 import os
 
-FILE_PATH = "students.txt"
+FILE_PATH = "student.txt"
 
 def add_student():
     """Appends a new student record to the text file."""
