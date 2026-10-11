@@ -31,7 +31,7 @@ def add_student():
 def view_all_students():
     """Reads and parses all student records from the text file."""
     if not os.path.exists(FILE_PATH) or os.path.getsize(FILE_PATH) == 0:
-        print("No student records found.\n")
+        print("No student records found.")
         return
 
     print("\n" + "=" * 60)
