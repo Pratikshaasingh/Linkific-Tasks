@@ -20,7 +20,7 @@ print("\nMultiplication Table of:",n)
 for i in range(1, 11):
     print(f"{n} x {i} = {n * i}")
 
-# Functions 
+# Functions: 
 def greet(user):
     return f"Hello, {user}! Welcome to Python practice."
 
