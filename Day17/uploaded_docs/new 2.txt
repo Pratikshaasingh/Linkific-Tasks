@@ -1,0 +1,2 @@
+Stores binary state strictly as either 0 or 1 at any single point in time. 
+It holds exactly one of two values: 0 or 1. Nothing else.
